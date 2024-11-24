@@ -1,0 +1,1 @@
+MINTSCAN_LABEL_KICHAIN = "ki-chain"
